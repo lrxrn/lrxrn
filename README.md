@@ -2,7 +2,7 @@
   <img style="border-radius: 100px" width="128" height="128" src="https://raw.githubusercontent.com/lrxrn/lrxrn/main/Assets/pfp.jpg">
 </p>
 
-<h2 align="center"> Hi <img src="https://github.com/lrxrn/lrxrn/raw/main/Assets/wave.gif" height="32" width="32" />, I'm lrxrn (Him/He) </h2>
+<h2 align="center"> Hi <img src="https://github.com/lrxrn/lrxrn/raw/main/Assets/wave.gif" height="20" width="20" />, I'm lrxrn (Him/He) </h2>
 
 - 🔭 I’m a Student Developer.
 - 😶 Don't know how to read my name?, it's pronounced as `lexen`.
