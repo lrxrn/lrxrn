@@ -1,12 +1,11 @@
 <p align="center">
-  <img style="border-radius: 100px" width="128" height="128" src="https://github.com/lrxrn/lrxrn/raw/main/Assets/pfp.jpg">
+  <img style="border-radius: 100px" width="128" height="128" src="https://raw.githubusercontent.com/lrxrn/lrxrn/main/Assets/pfp.jpg">
 </p>
   
 <h2 align="center"> Hi <img src="https://github.com/lrxrn/lrxrn/raw/main/Assets/wave.gif" height="8" width="8" />, I'm lrxrn (Him/He) </h2>
 
 - 🔭 I’m a Student Developer.
 - 😶 Don't know how to read my name?, it's pronounced as `lexen`.
-- ⚡ **Random fact**: <details><summary>Click to reveal.</summary> `There are approximately 10,000 financial transactions completed with credit cards every second around the world.` </details>
 - 📫 **How to reach me**: [Website](https://lrxrn.github.io/) or [Discord](https://discord.gg/).
 
 <details>
@@ -17,7 +16,7 @@
 
 ### Little More About Me  
 
-I love to cook :ramen:, listen to music :music_notes:	and play video games :video_game:.
+I love to cook :ramen:, listen to music 🎶, play video games :video_game: & code 💻.
 
 ### Programming Languages :scroll:
 
@@ -28,7 +27,7 @@ I love to cook :ramen:, listen to music :music_notes:	and play video games :vide
 
 <details>
   <summary>
-    <a href="https://github.com/lrxrn"><img src="https://img.shields.io/badge/-Click%20to%20view%20detailed%20metrics-565968?style=for-the-badge" /></a>
+    <a href="https://github.com/lrxrn"><img src="https://img.shields.io/badge/-Click%20to%20view%20detailed%20metrics-565968?style=flat-square" /></a>
   </summary>
   <img src="" align="center">
 <br></details>
