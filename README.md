@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="border-radius: 100px" width="128" height="128" src="https://raw.githubusercontent.com/lrxrn/lrxrn/main/Assets/pfp.jpg">
+  <img style="border-radius: 200px" width="128" height="128" src="https://raw.githubusercontent.com/lrxrn/lrxrn/main/Assets/pfp.jpg">
 </p>
   
 <h2 align="center"> Hi <img src="https://github.com/lrxrn/lrxrn/raw/main/Assets/wave.gif" height="32" width="32" />, I'm lrxrn (Him/He) </h2>
@@ -29,7 +29,7 @@ I love to cook :ramen:, listen to music 🎶, play video games :video_game: & co
   <summary>
     <a href="https://github.com/lrxrn"><img src="https://img.shields.io/badge/-Click%20to%20view%20detailed%20metrics-565968?style=flat-square" /></a>
   </summary>
-  <img src="" align="center">
+  <img src="https://github.com/lrxrn/lrxrn/blob/main/github-metrics.svg" align="center">
 <br></details>
 
 <br></details>
