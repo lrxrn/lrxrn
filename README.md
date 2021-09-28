@@ -3,7 +3,6 @@
 <h2 align="center">lrxrn (<a href="http://my.pronoun.is/he"><em>Him/He</em></a>)</h2>
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/375599041284669452?hideDiscrim=true)
-<img src="https://komarev.com/ghpvc/?username=lrxrn&style=for-the-badge" alt="Profile Views">
   </div>
 
 - 🔭 I’m a Student Developer.
