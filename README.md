@@ -2,7 +2,7 @@
   <img alt="Ze me." style="border-radius: 100px" width="128" height="128" src="https://raw.githubusercontent.com/lrxrn/lrxrn/main/Assets/pfp.jpg"><br>
 <h2 align="center">lrxrn (<a href="http://my.pronoun.is/he"><em>Him/He</em></a>)</h2>
 
-<img alt="Wut am i listening to on spotify?" src="https://img.shields.io/badge/dynamic/json?color=1DB954&logo=spotify&style=for-the-badge&label=Now%20Playing&query=songName&url=https%3A%2F%2Fnowplaying-api.tinyrobot.co%2Fplaybackstate%3Fkey%3Ddc5b3783-8be7-47e3-9abc-1f499dc5bf9e"> 
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/375599041284669452?hideDiscrim=true)
 <img src="https://komarev.com/ghpvc/?username=lrxrn&style=for-the-badge" alt="Profile Views">
   </div>
 
