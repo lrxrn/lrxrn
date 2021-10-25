@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lrxrn/lrxrn/blob/main/avatar.png?raw=true" alt="Lrxrn's avatar" height="500" width="500">
+  <img src="https://github.com/lrxrn/lrxrn/blob/main/avatar.png?raw=true" alt="Lrxrn's avatar" height="100" width="100">
 </p>
 
 <h1 align="center">Hi, I'm Lrxrn</h1>
